@@ -1,10 +1,4 @@
 streamlit
 youtube-transcript-api
-<<<<<<< HEAD
 google-genai
 python-dotenv
-=======
-openai
-python-dotenv
-
->>>>>>> 8156fdcbee95530117a132ad1c409f150e69bf59
