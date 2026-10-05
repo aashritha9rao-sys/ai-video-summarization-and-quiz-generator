@@ -1,2 +1,8 @@
 streamlit
+<<<<<<< HEAD
 youtube-transcript-api
+=======
+openai-whisper
+torch
+moviepy
+>>>>>>> f0fc731d416b8c488ebf4b901fd1f5d29f7155de
